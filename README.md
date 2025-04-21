@@ -6,7 +6,7 @@
 
 ## Installation
 
-> *⚠️ This loader needs you to have [**Reaper**](https://www.reaper.fm) installed.*
+> *⚠️ This loader needs you to have [**Reaper**](https://www.reaper.fm) installed and configured so that it renders to `*.wav` format (default Reaper configuration).*
 
 ```shell
 npm install @theatrejs/loader-reaper --save-dev
